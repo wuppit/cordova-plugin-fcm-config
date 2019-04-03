@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "820178301082",
+    "firebase_url": "https://magicorga-1005.firebaseio.com",
+    "project_id": "magicorga-1005",
+    "storage_bucket": "magicorga-1005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820178301082:android:043b59d56b19f896",
+        "android_client_info": {
+          "package_name": "de.magic_objects.apptestmagicorga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820178301082-j387buk0djafpnt1bhktkv4nj7f56qep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5IEzsAAxNdmjQmorMFm0lAAaIAKXQbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
